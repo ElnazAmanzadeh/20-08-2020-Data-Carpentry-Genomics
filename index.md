@@ -20,6 +20,26 @@ email: ["elibio449@gmail.com", "itisAliRH@gmail.com","parastoo.modarres@gmail.co
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 etherpad: https://pad.carpentries.org/2020-09-07-DC-GenomicsWorkshop-Iran
+Participants: 
+1. Amirhosein Naghsh Nilchi
+2. Leyli khalilian
+3. mahsa motavaf
+4. Sara Tavallaei
+5. Mahdiye yavari
+6. Laleh Ebrahimi Ghahnavieh
+7. Haniyeh nikkhah
+8. Samaneh Esmaeili
+9. Roya Hajian 
+10. Mohammad Kashkooli
+11. Shirin Fathi
+12. Zahra nasabzade
+13. Ahmed Almuslimawi
+14. Javad Arabpour
+15. Bardia Zamiri
+16. mahdi malekpour
+17. Zahra Barzegari Banadkouki
+18. Zahra Akhlaghi
+19. Navid kazemi
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
